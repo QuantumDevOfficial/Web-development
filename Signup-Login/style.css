@@ -11,7 +11,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(../images/coconut.png);
+    background: url(images/coconut.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
